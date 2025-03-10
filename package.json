@@ -1,0 +1,14 @@
+{
+  "name": "@tisf/repo",
+  "version": "0.0.2",
+  "description": "Run scripts from Github",
+  "bin": {
+    "@tisf/repo": "bin/install.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
